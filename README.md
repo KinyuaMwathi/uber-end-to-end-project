@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an end-to-end data analytics project is created using various tools and technologies such as GCP Cloud Storage, GCP Compute Engine, Mage data pipeline tool, BigQuery, Python, and Looker Studio.
+This is an end-to-end data analytics project created using various tools and technologies such as GCP Cloud Storage, GCP Compute Engine, Mage data pipeline tool, BigQuery, Python, and Looker Studio.
 
 ## Architecture 
 
